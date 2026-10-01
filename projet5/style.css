@@ -1,0 +1,27 @@
+
+body {
+    background-color: aqua;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 {
+    color: red;
+}
+
+form {
+    background-color: blanchedalmond;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 2);
+}
+	
+label {
+       display: block;
+       margin-bottom: 5px;
+       font-weight: bold;
+}
