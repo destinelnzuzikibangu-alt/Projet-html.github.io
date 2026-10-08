@@ -1,0 +1,28 @@
+body
+{
+background-color: purple;
+front-family:arial;
+
+
+}
+
+.titre
+{
+
+	background-color: darkred;
+	height: 80px;
+    width: 100%;
+    margin:auto;
+    color: black;
+    text-align: center;
+
+}
+.titre2 
+{
+background-color: darkred;
+height: 50px;
+width: 400px;
+color: black;
+text-align: center;
+
+}

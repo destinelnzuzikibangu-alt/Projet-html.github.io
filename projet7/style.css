@@ -1,0 +1,46 @@
+body 
+{
+
+background-color: green; 
+front-family:arial;
+
+
+}
+
+
+.titre
+{
+
+background-color:beige;
+height: 80px;
+width: 50%;
+margin:auto;
+color: black;
+
+}
+
+.p1
+{
+
+	height: 200px;
+	width: 60%;
+	background-color: beige;
+	boder: 2px solid red;
+	border-radius: 10px;
+	margin:auto;
+	margin-top: 20px;
+}
+
+.p2 
+{
+
+height: 200px;
+	width: 60%;
+	background-color:beige;
+	boder: 2px solid red;
+	border-radius: 10px;
+	margin:auto;
+	margin-top: 20px;
+
+}
+

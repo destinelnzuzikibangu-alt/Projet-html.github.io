@@ -1,0 +1,45 @@
+body 
+{
+
+background-color: orange; 
+front-family:arial;
+
+
+}
+
+
+.titre
+{
+
+background-color: beige;
+height: 200px;
+width: 300px;
+color: black;
+floot:left;
+
+
+
+}
+
+.b2
+{ 
+	background-color:beige;
+	height: 200px;
+    width: 400px;
+    margin-bottom:30px;
+    color: black;
+ floot:rigth;
+}
+
+.b3 
+{
+
+	background-color:beige;
+	height:200px ;
+3	width: 100px;
+	color: yellow;
+	clear: both;
+
+}
+
+
