@@ -1,0 +1,62 @@
+
+body {
+    background-color: #52003A;
+    font-family: Arial, sans-serif;
+}
+
+.titre {
+    background-color: darkred;
+    height: 80px;
+    width: 100%;
+    margin: auto;
+    color: black;
+    text-align: center;
+    border: 2px solid black;
+}
+
+body {
+    display: flow-root;
+}
+
+body > .cartes {
+    float: left;
+    box-sizing: border-box;
+    width: calc(33.33% - 17px);
+    height: 400px;
+    margin: 20px 8px;
+    border: 2px solid black;
+    padding: 15px;
+}
+
+.titre2,
+.titre3,
+.titre4 {
+    background-color: darkred;
+    height: 80px;
+    width: 100%;
+    color: black;
+    text-align: center;
+    border: 2px solid black;
+    box-sizing: border-box;
+}
+
+.p1,
+.p2 {
+    background-color: darkred;
+    color: black;
+    border: 2px solid black;
+    padding: 10px;
+    margin-top: 20px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.b1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.b1 img {
+    max-width: 100%;
+    height: auto;
+}

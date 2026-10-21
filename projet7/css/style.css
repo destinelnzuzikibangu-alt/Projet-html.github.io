@@ -1,0 +1,33 @@
+
+/* Fond général */
+body {
+    background-color: #1E293B;
+    font-family: Arial, sans-serif;
+}
+
+/* Titre */
+h1 {
+    background-color: #F5F0E8;
+    color: #1E293B;
+    border: 2px solid black;
+    padding: 15px;
+    width: 60%;
+    margin: 30px auto;
+    text-align: center;
+    border-radius: 5px;
+}
+
+/* Les deux encadrés de texte */
+p {
+    background-color: #F5F0E8;
+    color: #222222;
+    border: 2px solid black;
+    border-radius: 18px;
+    padding: 25px;
+    width: 65%;
+    min-height: 140px;
+    margin: 25px auto;
+    text-align: justify;
+    line-height: 1.8;
+    box-sizing: border-box;
+}
