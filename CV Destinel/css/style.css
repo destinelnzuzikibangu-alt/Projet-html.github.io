@@ -1,0 +1,78 @@
+body {
+    background-color: #F5F0E6;
+    color: #333333;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    margin: 20px;
+}
+
+* Présentation *
+.vert {
+    background-color: #DDE5D5;
+    width: 85%;
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid #A5B397;
+    text-align: left;
+}
+
+.presentation {
+    padding: 10px;
+}
+
+.presentation h1 {
+    color: #465B43;
+    font-size: 28px;
+}
+.image {
+
+float: right;
+}
+.image img {
+    width: 200px;
+    border: 2px solid #A5B397;
+}
+
+/* Formation */
+.rouge {
+    background-color: #FFFFFF;
+    width: 85%;
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid #D8C8B5;
+}
+
+.parcours h2 {
+    color: #465B43;
+    font-size: 23px;
+}
+
+/* Langues et compétences */
+.rose {
+    background-color: #EAE2D8;
+    width: 85%;
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid #D8C8B5;
+}
+
+.langue h3 {
+    color: #465B43;
+    font-size: 21px;
+}
+
+/* Activités et centres d'intérêt */
+.orange {
+    background-color: #FFFFFF;
+    width: 85%;
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid #D8C8B5;
+}
+
+.activités h4,
+.centres h4 {
+    color: #465B43;
+    font-size: 20px;
+}
+
